@@ -1,0 +1,8 @@
+BasedOnStyle: LLVM
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+ColumnLimit: 80
+AlignTrailingComments: true
+UseTab: Always
+IndentWidth: 4
+TabWidth: 4
